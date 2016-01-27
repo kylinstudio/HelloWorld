@@ -1,4 +1,7 @@
 package cn.kystudio.start;
+
+import cn.kystudio.main.Main;
+
 /**
  * 开始类
  *
@@ -7,5 +10,6 @@ package cn.kystudio.start;
 public class Start {
     public static void main(String[] args) {
         System.out.println("Hello,World!");
+        Main m = new Main("Test");
     }
 }
