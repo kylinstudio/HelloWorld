@@ -23,5 +23,6 @@ public class Main extends JFrame {
         this.add(panel);
         this.pack();
         this.setVisible(true);
+        this.setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
 }
