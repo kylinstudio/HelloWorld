@@ -5,7 +5,8 @@ import javax.swing.*;
 /**
  * 界面类
  *
- * Created by ylf on 2016/1/27.
+ * @author ylf
+ * @create 2016-01-27 10:35
  */
 public class Main extends JFrame {
     private JPanel panel;
